@@ -1,10 +1,13 @@
-Programação Orientada a Objetos
-Exercícios da disciplina Programação Orientada a Objetos desenvolvidos em JAVA
+**Programação Orientada a Objetos**
+
+Exercícios da disciplina Programação Orientada a Objetos desenvolvidos em JAVA.
 
 
 Professor: Max Santiago
 Disciplina: Programação Orientada a Objetos
 Aluno: Douglas Coimbra
+
+---
 
 📚 Descrição Geral
 
@@ -12,11 +15,15 @@ Este repositório reúne as 6 atividades práticas desenvolvidas durante a disci
 
 Cada atividade buscou aplicar conceitos fundamentais de abstração, encapsulamento, herança, polimorfismo e sobrecarga de métodos, utilizando a linguagem Java.
 
+---
+
 🛠️ Tecnologias Utilizadas
 
 Java
 
 Paradigma Orientado a Objetos
+
+---
 
 🎯 Conceitos Principais Trabalhados na Disciplina
 
