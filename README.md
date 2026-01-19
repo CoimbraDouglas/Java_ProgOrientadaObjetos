@@ -1,15 +1,15 @@
-**Programação Orientada a Objetos**
+# Programação Orientada a Objetos
 
 Exercícios da disciplina Programação Orientada a Objetos desenvolvidos em JAVA.
 
-
-Professor: Max Santiago
-Disciplina: Programação Orientada a Objetos
-Aluno: Douglas Coimbra
+👨‍🏫 Professor: Max Santiago
+📚 Disciplina: Programação Orientada a Objetos
+✍️ Aluno: Douglas Coimbra Laass
+🏫 Instituição: Centro Universitário Newton Paiva
 
 ---
 
-📚 Descrição Geral
+## 📚 Descrição Geral
 
 Este repositório reúne as 6 atividades práticas desenvolvidas durante a disciplina de Programação Orientada a Objetos (POO).
 
@@ -17,34 +17,36 @@ Cada atividade buscou aplicar conceitos fundamentais de abstração, encapsulame
 
 ---
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-Java
+* Java
 
-Paradigma Orientado a Objetos
+* Paradigma Orientado a Objetos
 
 ---
 
-🎯 Conceitos Principais Trabalhados na Disciplina
+## 🎯 Conceitos Principais Trabalhados na Disciplina
 
-Classes e Objetos
+* Classes e Objetos
 
-Encapsulamento
+* Encapsulamento
 
-Construtores
+* Construtores
 
-Métodos Get/Set
+* Métodos Get/Set
 
-Herança
+* Herança
 
-Classes Abstratas
+* Classes Abstratas
 
-Sobrescrita de Métodos (@Override)
+* Sobrescrita de Métodos (@Override)
 
-Sobrecarga de Métodos
+* Sobrecarga de Métodos
 
-Polimorfismo
+* Polimorfismo
 
-🚀 Conclusão
+---
+
+## 🚀 Conclusão
 
 As atividades possibilitaram compreender e aplicar na prática os fundamentos da Programação Orientada a Objetos, desenvolvendo habilidades essenciais para construção de sistemas mais organizados, reutilizáveis e escaláveis.
