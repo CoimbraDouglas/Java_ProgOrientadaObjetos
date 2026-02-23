@@ -2,10 +2,10 @@
 
 Exercícios da disciplina Programação Orientada a Objetos desenvolvidos em JAVA.
 
-👨‍🏫 Professor: Max Santiago
-📚 Disciplina: Programação Orientada a Objetos
-✍️ Aluno: Douglas Coimbra Laass
-🏫 Instituição: Centro Universitário Newton Paiva
+👨‍🏫 **Professor:** Max Santiago
+📚 **Disciplina:** Programação Orientada a Objetos
+✍️ **Aluno:** Douglas Coimbra Laass
+🏫 **Instituição:** Centro Universitário Newton Paiva
 
 ---
 
